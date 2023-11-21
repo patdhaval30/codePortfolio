@@ -1,0 +1,6 @@
+1) youtube-transcript-api to get transcript of a youtube video
+2) requests to get site object and convert it to html text
+3) beautiful soup to find description and title of youtube video
+4) sys
+5) lama_cpp to use llama2 Gen AI model to create summary.
+6) Quantized llama-2-7b.Q8_0.gguf from https://huggingface.co/TheBloke/Llama-2-7B-GGUF. These are the llama2 AI model files.
