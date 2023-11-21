@@ -1,5 +1,5 @@
 # codePortfolio
-# Project name: Youtube summarizer.
+# Project name: Youtube video summary creator with Gen AI Llama 2
 >Readme for CS50 - Introduction to python final project.
 
 ## Concept
@@ -14,7 +14,7 @@ We are using quantized LLMs so that they can be run locally on laptop CPU free o
 The model has to be run twice or more on a same youtube video to get the best summary.<br/>
 
 ## Limits:
-Based on context window size and CPU capacity of the laptop we can get summary of max 45 min video.<br/>
+- Based on context window size and CPU capacity of the laptop we can get summary of max 45 min video.<br/>
 - Only english videos can be summarised.<br/>
 
 ## youtube video
